@@ -52,3 +52,10 @@ docs/_build/
 
 # PyBuilder
 target/
+
+#PyVenv
+bin/
+include/
+lib/
+lib64
+pyvenv.cfg
